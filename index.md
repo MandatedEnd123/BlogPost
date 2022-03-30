@@ -1,12 +1,28 @@
-## Welcome to GitHub Pages
+# **The Metaverse**
 
-You can use the [editor on GitHub](https://github.com/MandatedEnd123/BlogPost/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## What is the Metaverse?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"Think Ready Player One, but more accessible and pragmatic" (1). The Metaverse has been a subject of focus for longer than many may realize. The beginnings started around 30 years ago in the early 90's but hadn't truly been possible until the last few years and even more so in the last 1-2 years, but we'll discuss that later. The Metaverse is a digital environment where people can interact with AR, VR and socialmedia integration. Think a digital escape from the real world where even more is possible.
 
-### Markdown
+![Metaverse](https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-937126612.jpg?fit=1732%2C990&strip=all)
+
+## What Makes It Possible?
+
+The Metaverse would rely upon several interlinking features & functions
+- Augmented Reality
+- Virtual Reality
+- Crypto Currency
+- Non-Fungable Tokens
+
+AR and VR give the user the means of entering the world and interacting with other users. This technology has grown by leaps and bounds over the last several years, the headsets have become lighter and more comfortable, the controls have become smoother in their response and far more affordable. Lastly with the improvements to the headsets, they've lessened the liklihood of nausea for users which is rather important if people plan to spend extended periods of time in the Metaverse. 
+
+Crypto and NFTs argueably would be the final keys to the puzzle. Crypto provides the blockchain needed to keep peoples digital wallets safe and secure. This would be key in a digital world where everyone has their own in-metaverse currency, which would be requried to purchase in world content. NFTs would be the means of ownership in the Metaverse. NFTs
+
+## Is It Possible?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+## Maybe
 
 ```markdown
 Syntax highlighted code block
@@ -32,6 +48,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MandatedEnd123/BlogPost/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Sources
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. [Metaverse Meaning – What is this New World Everyone’s Talking About? - XRToday](https://www.xrtoday.com/mixed-reality/metaverse-meaning/)
+2. [What Is the Metaverse, Exactly? - Wired](https://www.wired.com/story/what-is-the-metaverse/)
+3. [What’s All the Hype About the Metaverse? - NYTimes](https://www.nytimes.com/2022/01/18/technology/personaltech/metaverse-gaming-definition.html)
