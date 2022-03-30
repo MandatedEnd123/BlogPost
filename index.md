@@ -2,7 +2,7 @@
 
 ## What is the Metaverse?
 
-"Think Ready Player One, but more accessible and pragmatic" (1). The Metaverse has been a subject of focus for longer than many may realize. The beginnings started around 30 years ago in the early 90's but hadn't truly been possible until the last few years and even more so in the last 1-2 years, but we'll discuss that later. The Metaverse is a digital environment where people can interact with AR, VR and socialmedia integration. Think a digital escape from the real world where even more is possible.
+"Think Ready Player One, but more accessible and pragmatic" (1). The Metaverse has been a subject of focus for longer than many may realize. The beginnings started around 30 years ago in the early 90's but hadn't truly been possible until the last few years and even more so in the last 1-2 years, but we'll discuss that later. The Metaverse is a digital environment where people can interact with AR, VR and socialmedia integration. Think a digital escape from the real world where even more is possible. Imagine a world within a world, you get off work and toss on a headset and grab you controller much like normal, except this time you can //TODO more details.
 
 ![Metaverse](https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-937126612.jpg?fit=1732%2C990&strip=all)
 
